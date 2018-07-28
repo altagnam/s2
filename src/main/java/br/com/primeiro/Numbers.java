@@ -1,4 +1,4 @@
-package br.com.teste.primeiro;
+package br.com.primeiro;
 
 public class Numbers {
 

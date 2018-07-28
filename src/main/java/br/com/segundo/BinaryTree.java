@@ -1,4 +1,4 @@
-package br.com.teste.segundo;
+package br.com.segundo;
 
 public class BinaryTree {
 

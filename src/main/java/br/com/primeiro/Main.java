@@ -1,4 +1,4 @@
-package br.com.teste.primeiro;
+package br.com.primeiro;
 
 //Dados dois numeros inteiros A e B, crie um terceiro inteiro C seguindo as seguintes regras:
 
